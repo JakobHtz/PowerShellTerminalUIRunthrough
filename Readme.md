@@ -1,11 +1,7 @@
 # Terminal GUI (TUI) für PowerShell
 
-Angelegt von Jakob Heitzmann, zuletzt geändert am Jul 30, 2021
-
 Tutorial: https://blog.ironmansoftware.com/tui-powershell/  
 Github: https://github.com/migueldeicaza/gui.cs/tree/main/Terminal.Gui  
-GitHub Overview (C#): https://migueldeicaza.github.io/gui.cs/articles/overview.html  
-GitHub API Doc: https://migueldeicaza.github.io/gui.cs/api/Terminal.Gui/Terminal.Gui.html  
 
 ## Installation
 Installation erfolgt über PowerShell.
